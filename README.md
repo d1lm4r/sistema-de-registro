@@ -2,4 +2,6 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-- Estado del proyecto: En construcción.
+Para ejecutar el sistema debes poner:
+
+'''npm install react'''
